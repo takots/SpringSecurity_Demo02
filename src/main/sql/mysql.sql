@@ -15,3 +15,5 @@ INSERT INTO user (name, age) VALUES
 ('Fiona Gallagher', 27);
 
 select * from user;
+
+
